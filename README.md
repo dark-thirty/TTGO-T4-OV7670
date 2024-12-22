@@ -20,7 +20,8 @@ https://github.com/user-attachments/assets/637ba0bd-3b72-460f-9d87-3d711f954747
 
 Pins used to connect TTGO T4 and OV7670 camera module are shown in below:
 
-![shematics_1](https://github.com/user-attachments/assets/7c9834c2-0759-4ec8-8bed-6491d13fe908)
+![schematics_1](https://github.com/user-attachments/assets/8da1e7ff-05aa-4985-aa06-5ba23574b0b5)
+
 
 Тo gain access to the pins that is wired in to the MicroSD slot you can use Sparkfun MicroSD Sniffer
 
